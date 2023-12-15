@@ -13,8 +13,8 @@
 
   "ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads": "APPLOVIN-D",
+      "select_main_ads": "admob",
+      "select_backup_ads": "applovin",
       "interval_native": "6",
       "interval_interstital": "2",
       "keyword_1": "null",
